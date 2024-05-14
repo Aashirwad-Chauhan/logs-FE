@@ -34,7 +34,8 @@
 - **Role based authorization**: admin and user based rights to modify and access the logs
 - **Authentication**: can use firebase, jwt(cookies), clerk(3rd party authorization tool)
 - **Websockets**: for real time data ingestion between backend and frontend 
-- **Dynamic UI**: for better user engagement 
+- **Dynamic UI**: for better user engagement
+- **APIs**: backend APIs can be implemented for more functionality and control on logs 
 
 
 
